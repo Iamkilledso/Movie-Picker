@@ -1,4 +1,4 @@
-Movie Picker App
+**Movie Picker App**
 
 Thank you for downloading the Movie Picker app! 🎬
 How to Use:
